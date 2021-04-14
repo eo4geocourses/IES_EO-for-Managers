@@ -8,7 +8,7 @@ The course material consists of 5 videos about Earth Observation technologies an
 
    <strong>2. EO and Forestry </strong>
 
-   The second episode is dedicated to the forestry and smart management of forest resources using EO data. Agris Brauns, the researcher of the Institute for Environmental Solutions and NORGSKOG Group managing director Arne Rørå describes importance of the forest ecosystem, modern forestry practices and how EO technologies can help to assess, manage and monitor forest recourses. 
+   The second episode is dedicated to the forestry and smart management of forest resources using EO data. Agris Brauns, the researcher of the Institute for Environmental Solutions and NORSKOG Group managing director Arne Rørå describes importance of the forest ecosystem, modern forestry practices and how EO technologies can help to assess, manage and monitor forest recourses. 
 
    <strong>3. EO and Lakes </strong>
 
